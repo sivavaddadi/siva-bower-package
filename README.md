@@ -1,0 +1,1 @@
+This is readme for siva-bower-package.git hosting "siva bower package" bower package containing script-file.js

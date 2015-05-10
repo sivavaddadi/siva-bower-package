@@ -1,0 +1,21 @@
+{
+  "name": "siva-package",
+  "version": "0.0.1",
+  "description": "first bower package from siva",
+  "main": "script-file.js",
+  "keywords": [
+    "siva",
+    "firstbowerpackage"
+  ],
+  "authors": [
+    "siva"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
