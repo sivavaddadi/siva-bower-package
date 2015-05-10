@@ -1,6 +1,6 @@
 {
   "name": "siva-package",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "first bower package from siva",
   "main": "script-file.js",
   "keywords": [
